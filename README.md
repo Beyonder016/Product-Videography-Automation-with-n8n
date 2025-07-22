@@ -6,9 +6,7 @@
 
 ## 🎥 **Demo Video**
 
-\[PLACEHOLDER FOR DEMO VIDEO LINK]
-
-*Upload your demo video link here once available.*
+https://github.com/user-attachments/assets/5068ce10-ea94-4903-92ce-7b595769d0dd
 
 ---
 
