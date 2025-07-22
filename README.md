@@ -4,6 +4,14 @@
 
 ---
 
+## 🎥 **Demo Video**
+
+\[PLACEHOLDER FOR DEMO VIDEO LINK]
+
+*Upload your demo video link here once available.*
+
+---
+
 ## 🚀 **Project Overview**
 
 This project uses **n8n**, **AI tools**, and **automation APIs** to transform simple product submissions into **studio-quality visuals** and **dynamic product videos** — all in one automated workflow.
@@ -67,14 +75,6 @@ With just a **product photo, title, description, and an email**, the system gene
 
    * Email final image & video links
    * Store raw and edited assets on Google Drive
-
----
-
-## 🎥 **Demo Video**
-
-\[PLACEHOLDER FOR DEMO VIDEO LINK]
-
-*Upload your demo video link here once available.*
 
 ---
 
